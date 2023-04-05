@@ -1,0 +1,3 @@
+A pattern that repeatedly creates gliders, and thus grows without bound. Was the first infinitely-growing pattern to be found. Discovered in 1970. More info on LifeWiki
+
+A period 43 oscillator that works by using four Snarks (discovered in 2013) to reflect some gliders around a diamond-shaped track.

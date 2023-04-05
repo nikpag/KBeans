@@ -1,0 +1,19 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dataset_size = 256.00 MB    numObjs = 67108864    numCoords = 1    numClusters = 4
+i=16777216 thread=1i=16777217 thread=1i=16777218 thread=1i=16777219 thread=1i=16777220 thread=1i=16777221 thread=1i=16777222 thread=1i=16777223 thread=1i=16777224 thread=1i=16777225 thread=1i=16777226 thread=1i=16777227 thread=1i=16777228 thread=1i=16777229 thread=1i=16777230 thread=1i=16777231 thread=1i=16777232 thread=1i=16777233 thread=1i=16777234 thread=1i=16777235 thread=1i=16777236 thread=1i=16777237 thread=1i=16777238 thread=1i=16777239 thread=1i=16777240 thread=1i=16777241 thread=1i=16777242 thread=1i=16777243 thread=1i=16777244 thread=1i=16777245 thread=1i=16777246 thread=1i=16777247 thread=1i=16777248 thread=1i=16777249 thread=1i=16777250 thread=1i=16777251 thread=1i=16777252 thread=1i=16777253 thread=1i=16777254 thread=1i=16777255 thread=1i=16777256 thread=1i=16777257 thread=1i=16777258 thread=1i=16777259 thread=1i=16777260 thread=1i=16777261 thread=1i=16777262 thread=1i=16777263 thread=1i=16777264 thread=1i=16777265 thread=1i=16777266 thread=1i=16777267 thread=1i=16777268 thread=1i=16777269 thread=1i=16777270 thread=1i=16777271 thread=1i=16777272 thread=1i=16777273 thread=1i=16777274 thread=1i=16777275 thread=1i=16777276 thread=1i=16777277 thread=1i=16777278 thread=1i=16777279 thread=1i=16777280 thread=1i=16777281 thread=1i=16777282 thread=1i=16777283 thread=1i=16777284 thread=1i=16777285 thread=1i=16777286 thread=1i=16777287 thread=1i=16777288 thread=1i=16777289 thread=1i=16777290 thread=1i=16777291 thread=1i=16777292 thread=1i=16777293 thread=1i=16777294 thread=1i=16777295 thread=1i=16777296 thread=1i=16777297 thread=1i=16777298 thread=1i=16777299 thread=1i=16777300 thread=1i=16777301 thread=1i=16777302 thread=1i=16777303 thread=1i=16777304 thread=1i=16777305 thread=1i=16777306 thread=1i=16777307 thread=1i=16777308 thread=1i=16777309 thread=1i=16777310 thread=1i=16777311 thread=1i=16777312 thread=1i=16777313 thread=1i=16777314 thread=1i=16777315 thread=1Initial cluster centers:
+clusters[0] =   0.00
+clusters[1] =   2.22
+clusters[2] =   4.43
+clusters[3] =   6.66
+
+OpenMP Kmeans - Reduction	(number of threads: 4)
+	completed loop 1	completed loop 2	completed loop 3	completed loop 4	completed loop 5	completed loop 6	completed loop 7	completed loop 8	completed loop 9	completed loop 10
+        nloops =  10   (total =  5.2960s)  (per loop =  0.5296s)
+
+Final cluster centers:
+clusters[0] =   1.05 
+clusters[1] =   3.24 
+clusters[2] =   5.67 
+clusters[3] =   8.46 

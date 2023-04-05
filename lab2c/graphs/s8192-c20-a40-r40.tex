@@ -1,0 +1,24 @@
+\begin{center}
+\textbf{Throughput for List Size: 8192, Contains: 20\%, Add: 40\%, Remove: 40\% (Kops/sec)}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\diagbox{Threads}{Executable} & \verb|x.serial| & \verb|x.cgl| & \verb|x.fgl| & \verb|x.opt| & \verb|x.lazy| & \verb|x.nb| \\
+\hline
+1 & 85.7 & 86.07 & 40.66 & 30.53 & 61.55 & 58.88 \\
+\hline
+2 &  & 75.57 & 35.2 & 55.69 & 116.44 & 116.21 \\
+\hline
+4 &  & 73.24 & 52.83 & 111.21 & 220.6 & 220.45 \\
+\hline
+8 &  & 45.61 & 81.29 & 159.51 & 339.08 & 331.41 \\
+\hline
+16 &  & 32.98 & 46.9 & 238.22 & 496.28 & 532.57 \\
+\hline
+32 &  & 35.53 & 58.9 & 378.48 & 789.86 & 836.45 \\
+\hline
+64 &  & 31.22 & 89.74 & 412.21 & 891.81 & 994.08 \\
+\hline
+128 &  & 11.26 & 0.54 & 224.02 & 553.8 & 574.05 \\
+\hline
+\end{tabular}
+\end{center}
